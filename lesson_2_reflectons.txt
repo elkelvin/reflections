@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+A git file containing the settings is created.
+Follow up.
+
+Reflect: Staging Area
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
+The area is an intermediate stage that allows you to show that the files will be saved.
+The directory of the resident files of the computer.
+Repository are the files that are stored
+Greater control of archives
